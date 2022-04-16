@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: url("images/DrumConcert.jpg");
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 footer {
-  color: #DBEDF3;
+  color: #DA70D6;
   font-family: sans-serif;
 }
 
